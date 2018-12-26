@@ -1,1 +1,1 @@
-See [wiki](https://github.com/takayuki5168/wiki/wiki)
+See [wiki](https://github.com/takayuki5168/memorandum/wiki)
